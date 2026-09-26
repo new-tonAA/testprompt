@@ -1,1 +1,1 @@
-int tok(void) { return 0; }
+int tok(void) { return 1; }
